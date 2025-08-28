@@ -1,4 +1,4 @@
-.DEFAULT_GOAL = build
+20000.DEFAULT_GOAL = build
 
 build:
 	go build -o gh-dash gh-dash.go
